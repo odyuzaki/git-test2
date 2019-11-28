@@ -9,3 +9,4 @@ lloyd = {
   "quizzes": [88.0, 40.0, 94.0],
   "kontas": [75.0, 90.0]
 
+aaaaaaaaaaaaaaaaa
